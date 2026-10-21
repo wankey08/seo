@@ -1,6 +1,0 @@
-my-seo-site/
-├─ index.html        # 首页
-├─ css/
-│  └─ style.css      # 样式
-└─ articles/
-   └─ article1.html  # 第一篇文章，以后写新文章就复制这个文件
