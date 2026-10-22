@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- 每篇文章单独写标题、描述，SEO最重要 -->
+  <title>正宗潮州手打牛肉丸怎么挑选？3个避坑要点</title>
+  <meta name="description" content="买潮州牛肉丸怎么分辨真假手打？教你从弹性、配料表、味道辨别，避免买到掺淀粉丸子">
+  <meta name="keywords" content="潮州手打牛肉丸,牛肉丸挑选,牛肉丸避坑">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header>
+    <h1>潮州特产小科普</h1>
+    <nav>
+      <a href="/">首页</a>
+      <a href="/articles/article1.html">牛肉丸挑选</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>正宗潮州手打牛肉丸怎么挑选？3个避坑要点</h2>
+    <p>发布时间：2026-10-20</p>
+    <p>很多朋友网购牛肉丸容易踩坑，买到大量淀粉的丸子。真正的潮州手打牛肉丸有这几个特点。</p>
+
+    <h3>1.看配料表</h3>
+    <p>优质牛肉丸配料第一位必须是牛肉，淀粉排在越后面越好，淀粉含量太高口感会粉，没有弹牙口感。</p>
+
+    <h3>2.弹性测试</h3>
+    <p>好的手打牛肉丸丢桌面可以弹起来，不是硬邦邦，而是有韧性。</p>
+
+    <h3>3.品尝味道</h3>
+    <p>正宗牛肉丸牛肉香味浓郁，不会只有咸味。</p>
+
+    <p>总结：买潮州牛肉丸优先看配料，不要只看价格。</p>
+    <!-- 内链：链接到凤凰单丛怎么挑选文章，SEO加分 -->
+    <p>推荐阅读：<a href="article2.html">凤凰单丛怎么挑选？新手选购凤凰单丛茶4个技巧</a></p>
+  </main>
+
+  <footer>
+    <p>©2026 潮州特产科普</p>
+  </footer>
+</body>
+</html>
